@@ -12,6 +12,6 @@ Kill 50 enemies to win!
 **Game reference:** 
 Pacman [**Video link**](https://www.youtube.com/watch?v=dScq4P5gn4A&pp=ygULcGFjbWFuIGdhbWU%3D/)
 
-[**Playable link to game**](https://zhang-ale.github.io/Pacman_Cubes/Pacman_Cubes/Build/)
+[**Playable link to game**](https://zhang-ale.github.io/Pacman_Cubes/Build/)
  
-[**Source link**](https://github.com/Zhang-Ale/Pacman_Cubes/tree/main/Pacman_Cubes)
+[**Source link**](https://github.com/Zhang-Ale/Pacman_Cubes/tree/main/)
